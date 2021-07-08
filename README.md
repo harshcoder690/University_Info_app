@@ -4,7 +4,10 @@ An app which shows details of all the universities of your country
 
 |<img src = "screenshot_1.jpeg" width =200/>|<img src = "screenshot_2.jpeg" width =200/>|<img src = "screenshot_3.jpeg" width =200/>|
 
+video link -
+
 https://github.com/harshcoder690/University_Info_app/blob/master/video_1.mp4
+
 
 ## Instructions to use
 Follow the given steps to use/debug the app :-
